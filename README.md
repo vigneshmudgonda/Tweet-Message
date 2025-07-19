@@ -11,3 +11,10 @@ Content Management: To enable users to easily create new tweets, and to modify o
 User Experience: To offer a straightforward and intuitive interface for interacting with the tweet functionalities.
 Learning/Demonstration: To serve as a practical example of building a web application with Django, showcasing features like models, views, forms, templates, and user authentication.
 
+👥 Team Members:
+    Vignesh Mudgonda
+
+📸 Screenshots :
+
+📦 How to run / install :
+
