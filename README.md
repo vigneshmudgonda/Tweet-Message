@@ -49,13 +49,13 @@ Open your web browser and navigate to:
 
 http://127.0.0.1:8000/
 
-#10. Register and Log In
+#6. Register and Log In
 
 Click on "Register" to create a new user account.
 After registering, you can log in using your new credentials.
 Once logged in, you can start creating, editing, and deleting tweets.
 
-#11. Access Admin Panel (Optional)
+#7. Access Admin Panel (Optional)
 
 If you created a superuser, you can access the admin panel at:
 http://127.0.0.1:8000/admin/
